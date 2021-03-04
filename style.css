@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+
+header {
+  font-family: roboto, sans-serif;
+  font-size: 30px;
+  color: black;
+}
+
+h2 {
+  font-weight: bold;
+  color: Black;
+  font-family: roboto, sans-serif;
+}
+
+.data {
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+footer{
+  font-family: roboto, sans-serif;
+  font-size: 15px;
+}
